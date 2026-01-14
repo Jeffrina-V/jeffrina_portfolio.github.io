@@ -1243,6 +1243,10 @@
         <header>
 
             <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='150'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%230f2027;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23203a43;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='75' cy='75' r='75' fill='url(%23grad)'/%3E%3Ctext x='75' y='95' font-size='55' text-anchor='middle' fill='%23d4af37' font-family='Arial' font-weight='bold'%3EJV%3C/text%3E%3C/svg%3E" alt="Jeffrina V" class="profile-img">
+            <img 
+     src="https://drive.google.com/uc?export=view&id=1y6BIV_z4FlfOXmC3RVMAuz9eXtNQJqLA" 
+    alt="Profile Photo" 
+    class="profile-img">
 
             <h1>Jeffrina V</h1>
 
