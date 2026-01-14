@@ -676,7 +676,18 @@
                     <span class="badge">Independent Work</span>
                 </div>
             </div>
-        </section>
+
+  <!-- Deloitte Technology Job Simulation -->
+  <div class="experience-box">
+    <h3>Deloitte Australia Technology Job Simulation</h3>
+    <h4>Forage | January 2026</h4>
+    <ul>
+      <li>Completed a job simulation involving development and coding</li>
+      <li>Wrote a proposal for creating a dashboard</li>
+      <li><strong>Skills:</strong> Python Programming, Software Development</li>
+    </ul>
+  </div>
+</section>
 
         <section class="fade-in">
             <h2><span class="section-icon">💻</span> Technical Skills</h2>
@@ -785,6 +796,7 @@
                     <span class="badge">Data Analytics</span>
                 </div>
             </div>
+           
 
             <div class="certificate-card">
                 <h3>Data Analyst Internship Certificate</h3>
