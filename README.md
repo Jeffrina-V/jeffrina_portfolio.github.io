@@ -1284,4 +1284,696 @@
 
 
 
-                <a href="tel:+918838540526" class="social-bt
+                         <a href="tel:+918838540526" class="social-btn">
+
+                    <svg fill="currentColor" viewBox="0 0 24 24"><path d="M20.01 15.38c-1.23 0-2.42-.2-3.53-.56-.35-.12-.74-.03-1.01.24l-1.57 1.97c-2.83-1.35-5.48-3.9-6.89-6.83l1.95-1.66c.27-.28.35-.67.24-1.02-.37-1.11-.56-2.3-.56-3.53 0-.54-.45-.99-.99-.99H4.19C3.65 3 3 3.24 3 3.99 3 13.28 10.73 21 20.01 21c.71 0 .99-.63.99-1.18v-3.45c0-.54-.45-.99-.99-.99z"/></svg>
+
+                    Call
+
+                </a>
+
+            </div>
+
+        </header>
+
+
+
+        <section class="fade-in">
+
+            <h2><span class="section-icon">👤</span> Professional Summary</h2>
+
+            <div class="about-content">
+
+                <p>Aspiring Data Analyst and Developer with strong foundations in programming and data visualization. Skilled in Power BI, Tableau, and Excel for analytics, with experience in Python, C++, and Java for software solutions. Passionate about building real-world projects and contributing to data-driven decision-making and technology development.</p>
+
+                <p style="margin-top: 15px;">Currently seeking opportunities in data analysis, business intelligence, and software development roles where I can apply my technical skills and analytical mindset to solve complex business problems and drive impactful insights.</p>
+
+            </div>
+
+        </section>
+
+
+
+        <section class="fade-in">
+
+            <h2><span class="section-icon">💼</span> Professional Experience</h2>
+
+            
+
+            <div class="experience-card">
+
+                <div class="experience-header">
+
+                    <div>
+
+                        <div class="experience-title">Data Analyst Intern</div>
+
+                        <div class="experience-company">InnoByte Services, New Delhi</div>
+
+                    </div>
+
+                    <div class="experience-date">August 2025</div>
+
+                </div>
+
+                <p>Demonstrated exceptional dedication, professionalism, and a keen interest in the field of Data Analysis. Consistently performed duties with a high level of competence and enthusiasm. Worked independently as well as part of a team, contributing positively to the department's success.</p>
+
+                <div style="margin-top: 15px;">
+
+                    <span class="badge">Data Analysis</span>
+
+                    <span class="badge">Team Collaboration</span>
+
+                    <span class="badge">Problem Solving</span>
+
+                    <span class="badge">Independent Work</span>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <section class="fade-in">
+
+            <h2><span class="section-icon">💻</span> Technical Skills</h2>
+
+            <div class="skills-grid">
+
+                <div class="skill-card">
+
+                    <h3>Programming Languages</h3>
+
+                    <ul>
+
+                        <li>Python</li>
+
+                        <li>C++</li>
+
+                        <li>Java</li>
+
+                    </ul>
+
+                </div>
+
+                <div class="skill-card">
+
+                    <h3>Data Analytics Tools</h3>
+
+                    <ul>
+
+                        <li>Power BI</li>
+
+                        <li>Tableau</li>
+
+                        <li>MS Excel</li>
+
+                    </ul>
+
+                </div>
+
+                <div class="skill-card">
+
+                    <h3>Web Development</h3>
+
+                    <ul>
+
+                        <li>HTML5</li>
+
+                        <li>CSS3</li>
+
+                        <li>JavaScript</li>
+
+                    </ul>
+
+                </div>
+
+                <div class="skill-card">
+
+    <h3>Soft Skills</h3>
+
+                    <ul>
+
+                        <li>Teamwork</li>
+
+                        <li>Time Management</li>
+
+                        <li>Data Visualization</li>
+
+                        <li>Presentation Skills</li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <section class="fade-in">
+
+            <h2><span class="section-icon">🚀</span> Projects</h2>
+
+            
+
+            <div class="project-card">
+
+                <h3>Stock Price Dashboard</h3>
+
+                <p>Designed comprehensive dashboards to visualize stock trends, moving averages, and sector comparisons using Tableau. Created interactive visualizations that help users analyze market patterns and make informed investment decisions. Implemented data filtering and drill-down capabilities for detailed analysis.</p>
+
+                <div class="project-tech">Technologies: Tableau, Data Visualization, Financial Analysis</div>
+
+            </div>
+
+            
+
+            <div class="project-card">
+
+                <h3>Library Data Visualization</h3>
+
+                <p>Built comprehensive dashboards to analyze library usage patterns, borrowing trends, and overdue returns. Implemented data-driven insights to improve library management and user experience. Utilized Python for data processing and Tableau for creating interactive visual reports.</p>
+
+                <div class="project-tech">Technologies: Python, Tableau, Data Analysis, Dashboard Design</div>
+
+            </div>
+
+        </section>
+
+
+
+        <section class="fade-in">
+
+            <h2><span class="section-icon">🎓</span> Education</h2>
+
+            
+
+            <div class="education-card">
+
+                <h3>Undergraduate Degree - Bachelor of Science (B.Sc.)</h3>
+
+                <div class="education-details"><strong>Computer Science with Data Analytics</strong></div>
+
+                <div class="education-details"><strong>Sankara College of Science and Commerce</strong></div>
+
+                <div class="education-details">Currently Pursuing</div>
+
+                <div class="education-details" style="margin-top: 8px; color: #555; font-style: italic;">An Autonomous Institution | NAAC A+ Grade</div>
+
+                <span class="percentage">CGPA: 90%</span>
+
+                <div style="margin-top: 15px;">
+
+                    <span class="badge">Computer Science</span>
+
+                    <span class="badge">Data Analytics</span>
+
+                    <span class="badge">Mathematics Topper</span>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="education-card">
+
+                <h3>Higher Secondary Certificate (HSC)</h3>
+
+                <div class="education-details"><strong>Immaculate Matric Higher Secondary School</strong></div>
+
+                <div class="education-details">2023 - 2024</div>
+
+                <span class="percentage">81%</span>
+
+            </div>
+
+
+
+            <div class="education-card">
+
+                <h3>Secondary School Leaving Certificate (SSLC)</h3>
+
+                <div class="education-details"><strong>Immaculate Matric Higher Secondary School</strong></div>
+
+                <div class="education-details">2021 - 2022</div>
+
+                <span class="percentage">88%</span>
+
+            </div>
+
+        </section>
+
+
+
+        <section class="fade-in">
+
+            <h2><span class="section-icon">🏆</span> Certifications & Achievements</h2>
+
+            
+
+            <div class="certificate-card" style="border-color: #d4af37; background: linear-gradient(135deg, #fffef7 0%, #fff9e6 100%);">
+
+                <h3>🏆 Subject Topper Award - Mathematics</h3>
+
+                <div class="education-details"><strong>Sankara College of Science & Commerce</strong></div>
+
+                <div class="education-details">Department of Mathematics</div>
+
+                <div class="education-details" style="margin-top: 5px;">Academic Year 2024-25</div>
+
+                <div style="margin-top: 15px; padding: 15px; background: white; border-radius: 8px; border-left: 4px solid #d4af37;">
+
+                    <p style="color: #555; line-height: 1.8; margin-bottom: 10px;"><strong>Achievement:</strong> Secured Highest Mark in Mathematics in the Comprehensive External Examinations</p>
+
+                    <p style="color: #0f2027; font-size: 1.1em; font-weight: bold;">Subject: Discrete Mathematics for Data Analytics</p>
+
+                    <p style="color: #d4af37; font-size: 1.3em; font-weight: bold; margin-top: 10px;">Mark Scored: 97/100</p>
+
+                </div>
+
+                <div style="margin-top: 15px;">
+
+                    <span class="badge">Academic Excellence</span>
+
+                    <span class="badge">Mathematics Topper</span>
+
+                    <span class="badge">97 Marks</span>
+
+                    <span class="badge">Data Analytics</span>
+
+                </div>
+
+            </div>
+
+
+
+     <div class="certificate-card">
+
+                <h3>Data Analyst Internship Certificate</h3>
+
+                <div class="education-details"><strong>InnoByte Services, New Delhi</strong></div>
+
+                <div class="education-details">August 2025</div>
+
+                <div class="education-details" style="margin-top: 10px; color: #0f2027; font-weight: 600;">Certificate ID: IS/AI/F7103</div>
+
+                <p style="margin-top: 15px; color: #555;">Successfully completed internship demonstrating exceptional dedication, professionalism, and competence in data analysis. Contributed significantly to department success through independent work and team collaboration.</p>
+
+                <div style="margin-top: 15px;">
+
+                    <span class="badge">Data Analysis</span>
+
+                    <span class="badge">Professional Development</span>
+
+                    <span class="badge">Industry Experience</span>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <section class="fade-in">
+
+            <h2><span class="section-icon">🎓</span> Workshops & Professional Training</h2>
+
+            
+
+            <div class="workshop-card">
+
+                <h3>Data Analyst 30 Days Masterclass</h3>
+
+                <div class="education-details"><strong>Novi Tech Pvt. Ltd</strong></div>
+
+                <div class="education-details">2025</div>
+
+                <p style="margin-top: 15px; color: #555; line-height: 1.8;">Completed intensive 30-day professional training program focused on advanced data analytics techniques, industry best practices, and hands-on project experience. Gained expertise in data visualization, statistical analysis, and business intelligence tools through practical assignments and real-world case studies.</p>
+
+                <div style="margin-top: 15px;">
+
+                    <span class="badge">Data Analytics</span>
+
+                    <span class="badge">Professional Training</span>
+
+                    <span class="badge">Industry Skills</span>
+
+                    <span class="badge">Hands-on Projects</span>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="workshop-card">
+
+                <h3>Flutter Development Program</h3>
+
+                <div class="education-details"><strong>Sankara College of Science & Commerce</strong></div>
+
+                <div class="education-details">Department of Computer Science with Data Analytics</div>
+
+                <div class="education-details" style="margin-top: 5px;">February 24-26, 2025</div>
+
+                <p style="margin-top: 15px; color: #555; line-height: 1.8;">Successfully completed comprehensive Flutter Development Program gaining practical skills in developing cross-platform mobile applications using Flutter and Dart, with expertise in UI design, state management, and seamless app deployment.</p>
+
+                <div style="margin-top: 15px;">
+
+                    <span class="badge">Flutter Development</span>
+
+                    <span class="badge">Mobile App Development</span>
+
+                    <span class="badge">Cross-Platform</span>
+
+                    <span class="badge">UI/UX Design</span>
+
+                    <span class="badge">Dart Programming</span>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="workshop-card">
+
+                <h3>IoT Display - National Science Day</h3>
+
+                <div class="education-details"><strong>Sankara College of Science & Commerce</strong></div>
+
+                <div class="education-details">Department of Computer Science with Data Analytics</div>
+
+                <div class="education-details" style="margin-top: 5px;">February 28, 2025</div>
+
+                <p style="margin-top: 15px; color: #555; line-height: 1.8;">Participated in IoT Display event at National Science Day, demonstrating knowledge in Internet of Things technologies and practical applications. Engaged in hands-on demonstrations and technical presentations showcasing IoT sensors, connectivity, and real-world implementations.</p>
+
+                <div style="margin-top: 15px;">
+
+                    <span class="badge">IoT Technology</span>
+
+                    <span class="badge">National Science Day</span>
+
+                    <span class="badge">Technical Demonstration</span>
+
+                    <span class="badge">Hardware Integration</span>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <section class="fade-in">
+
+            <h2><span class="section-icon">🌐</span> Languages</h2>
+
+            <div class="languages-grid">
+
+                <div class="language-item">
+
+                    <div class="language-name">English</div>
+
+                    <div class="language-level">Read / Write / Speak</div>
+
+                </div>
+
+                <div class="language-item">
+
+                    <div class="language-name">Tamil</div>
+
+                    <div class="language-level">Read / Write / Speak</div>
+
+                </div>
+
+                <div class="language-item">
+
+                    <div class="language-name">French</div>
+
+                    <div class="language-level">Read / Write</div>
+
+                </div>
+
+                <div class="language-item">
+
+                    <div class="language-name">Hindi</div>
+
+                    <div class="language-level">Read / Write</div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+       <section class="fade-in">
+
+            <h2><span class="section-icon">📞</span> Get In Touch</h2>
+
+            <div class="contact-info">
+
+                <div class="contact-item">
+
+                    <h3>📧 Email</h3>
+
+                    <a href="mailto:jeffrinaviviliya@gmail.com">jeffrinaviviliya@gmail.com</a>
+
+                </div>
+
+                <div class="contact-item">
+
+                    <h3>📱 Phone</h3>
+
+                    <a href="tel:+918838540526">+91 88385 40526</a>
+
+                </div>
+
+                <div class="contact-item">
+
+                    <h3>📍 Location</h3>
+
+                    <p>Coimbatore, Tamil Nadu</p>
+
+                    <p style="font-size: 0.9em; opacity: 0.8; margin-top: 5px;">India</p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <footer>
+
+            <p style="font-size: 1.2em; margin-bottom: 10px;">
+
+                <strong>Jeffrina V</strong> - Data Analyst Portfolio
+
+            </p>
+
+            <p>&copy; 2025 All Rights Reserved</p>
+
+            <p style="margin-top: 10px;">
+
+                Built with <span class="footer-heart">❤️</span> using HTML, CSS & JavaScript
+
+            </p>
+
+            <p style="margin-top: 15px; font-size: 0.9em; opacity: 0.8;">
+
+                Open for Opportunities | Let's Connect!
+
+            </p>
+
+        </footer>
+
+    </div>
+
+
+
+    <div class="scroll-top" id="scrollTop" onclick="scrollToTop()">
+
+        ↑
+
+    </div>
+
+
+
+    <script>
+
+        const observerOptions = {
+
+            threshold: 0.1,
+
+            rootMargin: '0px 0px -50px 0px'
+
+        };
+
+
+
+        const observer = new IntersectionObserver((entries) => {
+
+            entries.forEach(entry => {
+
+                if (entry.isIntersecting) {
+
+                    entry.target.style.opacity = '1';
+
+                    entry.target.style.transform = 'translateY(0)';
+
+                }
+
+            });
+
+        }, observerOptions);
+
+
+
+        document.querySelectorAll('.fade-in').forEach(el => {
+
+            observer.observe(el);
+
+        });
+
+
+
+        document.querySelectorAll('.social-btn').forEach(btn => {
+
+            btn.addEventListener('click', function(e) {
+
+                this.style.transform = 'scale(0.95)';
+
+                setTimeout(() => {
+
+                    this.style.transform = '';
+
+                }, 150);
+
+            });
+
+        });
+
+
+
+        const skillCards = document.querySelectorAll('.skill-card');
+
+        skillCards.forEach((card, index) => {
+
+            card.style.animationDelay = `${index * 0.15}s`;
+
+        });
+
+
+
+        const scrollTopBtn = document.getElementById('scrollTop');
+
+
+
+        window.addEventListener('scroll', () => {
+
+            if (window.pageYOffset > 300) {
+
+                scrollTopBtn.classList.add('visible');
+
+            } else {
+
+                scrollTopBtn.classList.remove('visible');
+
+            }
+
+        });
+
+
+
+        function scrollToTop() {
+
+            window.scrollTo({
+
+                top: 0,
+
+                behavior: 'smooth'
+
+            });
+
+        }
+
+
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+
+            anchor.addEventListener('click', function (e) {
+
+                e.preventDefault();
+
+                const target = document.querySelector(this.getAttribute('href'));
+
+                if (target) {
+
+                    target.scrollIntoView({
+
+                        behavior: 'smooth',
+
+                        block: 'start'
+
+                    });
+
+                }
+
+            });
+
+        });
+
+
+
+        window.addEventListener('load', () => {
+
+            document.body.style.opacity = '1';
+
+        });
+
+
+
+        document.querySelectorAll('.skill-card, .project-card, .education-card, .certificate-card, .workshop-card').forEach(card => {
+
+            card.addEventListener('mouseenter', function() {
+
+                this.style.transition = 'all 0.3s ease';
+
+            });
+
+        });
+
+console.log('%c👋 Welcome to Jeffrina V\'s Portfolio!', 'color: #0f2027; font-size: 20px; font-weight: bold;');
+
+        console.log('%c📧 Contact: jeffrinaviviliya@gmail.com', 'color: #d4af37; font-size: 14px;');
+
+        console.log('%c🔗 LinkedIn: https://www.linkedin.com/in/jeffrina-v-39a0aa354', 'color: #203a43; font-size: 14px;');
+
+
+
+        const currentYear = new Date().getFullYear();
+
+        const footerText = document.querySelector('footer p:nth-child(2)');
+
+        if (footerText) {
+
+            footerText.textContent = `© ${currentYear} All Rights Reserved`;
+
+        }
+
+    </script>
+
+</body>
+
+</html>
+
+
