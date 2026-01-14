@@ -652,4 +652,97 @@
         <section class="fade-in">
             <h2><span class="section-icon">👤</span> Professional Summary</h2>
             <div class="about-content">
-                <p>Aspiring Dat
+                <p>Aspiring             </p>
+        </footer>
+    </div>
+
+    <div class="scroll-top" id="scrollTop" onclick="scrollToTop()">
+        ↑
+    </div>
+
+    <script>
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.fade-in').forEach(el => {
+            observer.observe(el);
+        });
+
+        document.querySelectorAll('.social-btn').forEach(btn => {
+            btn.addEventListener('click', function(e) {
+                this.style.transform = 'scale(0.95)';
+                setTimeout(() => {
+                    this.style.transform = '';
+                }, 150);
+            });
+        });
+
+        const skillCards = document.querySelectorAll('.skill-card');
+        skillCards.forEach((card, index) => {
+            card.style.animationDelay = `${index * 0.15}s`;
+        });
+
+        const scrollTopBtn = document.getElementById('scrollTop');
+
+        window.addEventListener('scroll', () => {
+            if (window.pageYOffset > 300) {
+                scrollTopBtn.classList.add('visible');
+            } else {
+                scrollTopBtn.classList.remove('visible');
+            }
+        });
+
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        window.addEventListener('load', () => {
+            document.body.style.opacity = '1';
+        });
+
+        document.querySelectorAll('.skill-card, .project-card, .education-card, .certificate-card, .workshop-card').forEach(card => {
+            card.addEventListener('mouseenter', function() {
+                this.style.transition = 'all 0.3s ease';
+            });
+        });
+
+        console.log('%c👋 Welcome to Jeffrina V\'s Portfolio!', 'color: #0f2027; font-size: 20px; font-weight: bold;');
+        console.log('%c📧 Contact: jeffrinaviviliya@gmail.com', 'color: #d4af37; font-size: 14px;');
+        console.log('%c🔗 LinkedIn: https://www.linkedin.com/in/jeffrina-v-39a0aa354', 'color: #203a43; font-size: 14px;');
+
+        const currentYear = new Date().getFullYear();
+        const footerText = document.querySelector('footer p:nth-child(2)');
+        if (footerText) {
+            footerText.textContent = `© ${currentYear} All Rights Reserved`;
+        }
+    </script>
+</body>
+</html>
+
