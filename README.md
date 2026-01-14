@@ -1311,6 +1311,26 @@
             </div>
 
         </section>
+             <section class="fade-in">
+            <h2><span class="section-icon">💼</span> Professional Experience</h2>
+            
+            <div class="experience-card">
+                <div class="experience-header">
+                    <div>
+                        <div class="experience-title">Technology Job Simulation</div>
+                        <div class="experience-company">Deloitte Australia - via Forage</div>
+                    </div>
+                    <div class="experience-date">January 2026</div>
+                </div>
+                <p>Completed a comprehensive job simulation involving software development and coding challenges. Successfully wrote a detailed proposal for creating an interactive dashboard, demonstrating strong analytical and technical writing skills. Gained hands-on experience in real-world business technology scenarios and client-focused solution development.</p>
+                <div style="margin-top: 15px;">
+                    <span class="badge">Python Programming</span>
+                    <span class="badge">Software Development</span>
+                    <span class="badge">Dashboard Design</span>
+                    <span class="badge">Technical Proposal Writing</span>
+                </div>
+            </div>
+            
 
 
 
