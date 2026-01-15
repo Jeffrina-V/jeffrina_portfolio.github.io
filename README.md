@@ -1297,6 +1297,19 @@
                 </a>
 
             </div>
+                 <div style="margin-top: 30px;">
+
+                <a href="https://drive.google.com/uc?export=download&id=1izsRMxQASWVokF1HpN8sp1TRf0LiD8B8" class="download-resume-btn" target="_blank" rel="noopener noreferrer">
+
+                    <svg fill="currentColor" viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+
+                    Download Resume
+
+                </a>
+
+            </div>
+
+
 
         </header>
 
@@ -1383,59 +1396,192 @@
         <section class="fade-in">
 
             <h2><span class="section-icon">💻</span> Technical Skills</h2>
+       <div style="margin-bottom: 30px;">
 
-            <div class="skills-grid">
+                <h3 style="color: #0f2027; margin-bottom: 20px; font-size: 1.3em;">Programming Languages</h3>
 
-                <div class="skill-card">
+                <div class="skill-item">
 
-                    <h3>Programming Languages</h3>
+                    <div class="skill-name">
 
-                    <ul>
+                        <span>Python</span>
 
-                        <li>Python</li>
+                        <span>85%</span>
 
-                        <li>C++</li>
+                    </div>
 
-                        <li>Java</li>
+                    <div class="skill-bar">
 
-                    </ul>
+                        <div class="skill-progress" style="width: 85%;"></div>
 
-                </div>
-
-                <div class="skill-card">
-
-                    <h3>Data Analytics Tools</h3>
-
-                    <ul>
-
-                        <li>Power BI</li>
-
-                        <li>Tableau</li>
-
-                        <li>MS Excel</li>
-
-                    </ul>
+                    </div>
 
                 </div>
 
-                <div class="skill-card">
+                <div class="skill-item">
 
-                    <h3>Web Development</h3>
+                    <div class="skill-name">
 
-                    <ul>
+                        <span>C++</span>
 
-                        <li>HTML5</li>
+                        <span>75%</span>
 
-                        <li>CSS3</li>
+                    </div>
 
-                        <li>JavaScript</li>
+                    <div class="skill-bar">
 
-                    </ul>
+                        <div class="skill-progress" style="width: 75%;"></div>
+
+                    </div>
 
                 </div>
 
-                <div class="skill-card">
+                <div class="skill-item">
 
+                    <div class="skill-name">
+
+                        <span>Java</span>
+
+                        <span>70%</span>
+
+                    </div>
+
+                    <div class="skill-bar">
+
+                        <div class="skill-progress" style="width: 70%;"></div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <div style="margin-bottom: 30px;">
+
+                <h3 style="color: #0f2027; margin-bottom: 20px; font-size: 1.3em;">Data Analytics Tools</h3>
+
+                <div class="skill-item">
+
+                    <div class="skill-name">
+
+                        <span>Power BI</span>
+
+                        <span>80%</span>
+
+                    </div>
+
+                    <div class="skill-bar">
+
+                        <div class="skill-progress" style="width: 80%;"></div>
+
+                    </div>
+
+                </div>
+
+                <div class="skill-item">
+
+                    <div class="skill-name">
+
+                        <span>Tableau</span>
+
+                        <span>85%</span>
+
+                    </div>
+
+                    <div class="skill-bar">
+
+                        <div class="skill-progress" style="width: 85%;"></div>
+
+                    </div>
+
+                </div>
+
+                <div class="skill-item">
+
+                    <div class="skill-name">
+
+                        <span>MS Excel</span>
+
+                        <span>90%</span>
+
+                    </div>
+
+                    <div class="skill-bar">
+
+                        <div class="skill-progress" style="width: 90%;"></div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <div style="margin-bottom: 30px;">
+
+                <h3 style="color: #0f2027; margin-bottom: 20px; font-size: 1.3em;">Web Development</h3>
+
+                <div class="skill-item">
+
+                    <div class="skill-name">
+
+                        <span>HTML5</span>
+
+                        <span>90%</span>
+
+                    </div>
+
+                    <div class="skill-bar">
+
+                        <div class="skill-progress" style="width: 90%;"></div>
+
+                    </div>
+
+                </div>
+
+                <div class="skill-item">
+
+                    <div class="skill-name">
+
+                        <span>CSS3</span>
+
+                        <span>85%</span>
+
+                    </div>
+
+                    <div class="skill-bar">
+
+                        <div class="skill-progress" style="width: 85%;"></div>
+
+                    </div>
+
+                </div>
+
+                <div class="skill-item">
+
+                    <div class="skill-name">
+
+                        <span>JavaScript</span>
+
+                        <span>75%</span>
+
+                    </div>
+
+                    <div class="skill-bar">
+
+                        <div class="skill-progress" style="width: 75%;"></div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            
     <h3>Soft Skills</h3>
 
                     <ul>
@@ -1472,7 +1618,18 @@
 
                 <div class="project-tech">Technologies: Tableau, Data Visualization, Financial Analysis</div>
 
+            
+                  <a href="https://github.com/Jeffrina-V" target="_blank" rel="noopener noreferrer" class="github-link">
+
+                    <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+
+                    View on GitHub
+
+                </a>
+
             </div>
+
+
 
             
 
@@ -1484,9 +1641,19 @@
 
                 <div class="project-tech">Technologies: Python, Tableau, Data Analysis, Dashboard Design</div>
 
+        
+                <a href="https://github.com/Jeffrina-V" target="_blank" rel="noopener noreferrer" class="github-link">
+             <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+
+                    View on GitHub
+
+                </a>
+
             </div>
 
         </section>
+
+
 
 
 
@@ -1757,6 +1924,56 @@
             </div>
 
         </section>
+        <section class="fade-in">
+            <h2><span class="section-icon">🎨</span> Hobbies & Interests</h2>
+
+            <div class="hobby-grid">
+
+                <div class="hobby-card">
+
+                    <div class="hobby-icon">📚</div>
+
+                    <div class="hobby-title">Reading</div>
+
+                    <p style="color: #666; margin-top: 8px; font-size: 0.9em;">Books, articles & literature</p>
+
+                </div>
+
+                <div class="hobby-card">
+
+                    <div class="hobby-icon">🎹</div>
+
+                    <div class="hobby-title">Instrumental Music</div>
+
+                    <p style="color: #666; margin-top: 8px; font-size: 0.9em;">Playing musical instruments</p>
+
+                </div>
+
+                <div class="hobby-card">
+
+                    <div class="hobby-icon">🎬</div>
+
+                    <div class="hobby-title">Editing</div>
+
+                    <p style="color: #666; margin-top: 8px; font-size: 0.9em;">Video & photo editing</p>
+
+                </div>
+
+                <div class="hobby-card">
+
+                    <div class="hobby-icon">🎤</div>
+
+                    <div class="hobby-title">Singing</div>
+
+                    <p style="color: #666; margin-top: 8px; font-size: 0.9em;">Vocal music & melodies</p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
 
        <section class="fade-in">
 
