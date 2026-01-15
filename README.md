@@ -8,7 +8,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Jeffrina V - Data Analyst Portfolio</title>
+    <title>Jeffrina V - Portfolio</title>
 
     <style>
 
@@ -1151,8 +1151,258 @@
         }
 
 
+        .download-resume-btn {
 
-        .scroll-top {
+            display: inline-block;
+
+            background: linear-gradient(135deg, #d4af37 0%, #f0d978 100%);
+
+            color: #0f2027;
+
+            padding: 15px 40px;
+
+            border-radius: 30px;
+
+            text-decoration: none;
+
+            font-weight: bold;
+
+            font-size: 1.1em;
+
+            margin: 20px auto;
+
+            transition: all 0.3s ease;
+
+            box-shadow: 0 5px 15px rgba(212, 175, 55, 0.3);
+
+            border: 2px solid #0f2027;
+
+        }
+
+
+
+        .download-resume-btn:hover {
+
+            transform: translateY(-3px) scale(1.05);
+
+            box-shadow: 0 8px 25px rgba(212, 175, 55, 0.5);
+
+            background: linear-gradient(135deg, #f0d978 0%, #d4af37 100%);
+
+        }
+
+
+
+        .download-resume-btn svg {
+
+            width: 20px;
+
+            height: 20px;
+
+            margin-right: 10px;
+
+            vertical-align: middle;
+
+        }
+
+
+
+        .skill-item {
+
+            margin-bottom: 20px;
+
+        }
+
+
+
+        .skill-name {
+
+            display: flex;
+
+            justify-content: space-between;
+
+            margin-bottom: 8px;
+
+            font-weight: 600;
+
+            color: #0f2027;
+
+        }
+
+
+
+        .skill-bar {
+
+            width: 100%;
+
+            height: 12px;
+
+            background: #e9ecef;
+
+            border-radius: 10px;
+
+            overflow: hidden;
+
+            position: relative;
+
+        }
+
+
+
+        .skill-progress {
+
+            height: 100%;
+
+            background: linear-gradient(135deg, #d4af37 0%, #f0d978 100%);
+
+            border-radius: 10px;
+
+            transition: width 1.5s ease;
+
+            position: relative;
+
+            overflow: hidden;
+
+        }
+
+
+
+        .skill-progress::after {
+
+            content: '';
+
+            position: absolute;
+
+            top: 0;
+
+            left: 0;
+
+            bottom: 0;
+
+            right: 0;
+
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+
+            animation: shimmer 2s infinite;
+
+        }
+
+
+
+        .github-link {
+
+            display: inline-flex;
+
+            align-items: center;
+
+            gap: 8px;
+
+            color: #203a43;
+
+            text-decoration: none;
+
+            font-weight: 600;
+
+            padding: 8px 15px;
+
+            background: #e9ecef;
+
+            border-radius: 20px;
+
+            transition: all 0.3s ease;
+
+            margin-top: 10px;
+
+        }
+
+
+
+        .github-link:hover {
+
+            background: #0f2027;
+
+            color: #d4af37;
+
+            transform: translateX(5px);
+
+        }
+
+
+
+        .github-link svg {
+
+            width: 18px;
+
+            height: 18px;
+
+        }
+
+
+
+        .hobby-grid {
+
+            display: grid;
+
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+            gap: 20px;
+
+            margin-top: 20px;
+
+        }
+
+
+
+        .hobby-card {
+
+            background: linear-gradient(135deg, #fff 0%, #f8f9fa 100%);
+
+            padding: 25px;
+
+            border-radius: 10px;
+
+            text-align: center;
+
+            transition: all 0.3s ease;
+
+            border: 2px solid #d4af37;
+
+        }
+
+
+
+        .hobby-card:hover {
+
+            transform: translateY(-5px) scale(1.05);
+
+            box-shadow: 0 10px 20px rgba(212, 175, 55, 0.3);
+
+            border-color: #0f2027;
+
+        }
+
+
+
+        .hobby-icon {
+
+            font-size: 2.5em;
+
+            margin-bottom: 10px;
+
+        }
+
+
+
+        .hobby-title {
+
+            font-weight: bold;
+
+            color: #0f2027;
+
+            font-size: 1.1em;
+
+    }
+    
 
             position: fixed;
 
@@ -1234,19 +1484,16 @@
 
     </style>
 
-</head>
+    </head>
 
-<body>
+    <body>
 
     <div class="container">
 
         <header>
 
-            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='150'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%230f2027;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23203a43;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='75' cy='75' r='75' fill='url(%23grad)'/%3E%3Ctext x='75' y='95' font-size='55' text-anchor='middle' fill='%23d4af37' font-family='Arial' font-weight='bold'%3EJV%3C/text%3E%3C/svg%3E" alt="Jeffrina V" class="profile-img">
-            <img 
-     src="https://drive.google.com/uc?export=view&id=1y6BIV_z4FlfOXmC3RVMAuz9eXtNQJqLA" 
-    alt="Profile Photo" 
-    class="profile-img">
+                   <img src="https://i.ibb.co/202Sjqz6/1768154942607.jpg" alt="Jeffrina V - Profile Photo" class="profile-img">
+     
 
             <h1>Jeffrina V</h1>
 
@@ -1349,11 +1596,6 @@
             </div>
             
 
-
-
-        <section class="fade-in">
-
-            <h2><span class="section-icon">💼</span> Professional Experience</h2>
 
             
 
@@ -1581,26 +1823,32 @@
             </div>
 
 
-            
-    <h3>Soft Skills</h3>
+                       <div>
 
-                    <ul>
+                <h3 style="color: #0f2027; margin-bottom: 20px; font-size: 1.3em;">Other Skills</h3>
 
-                        <li>Teamwork</li>
+                <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-                        <li>Time Management</li>
+                    <span class="badge">Teamwork</span>
 
-                        <li>Data Visualization</li>
+                    <span class="badge">Time Management</span>
 
-                        <li>Presentation Skills</li>
+                    <span class="badge">Data Visualization</span>
 
-                    </ul>
+                    <span class="badge">Presentation Skills</span>
+
+                    <span class="badge">Problem Solving</span>
+
+                    <span class="badge">Communication</span>
 
                 </div>
 
             </div>
 
         </section>
+
+
+    
 
 
 
@@ -1652,18 +1900,13 @@
             </div>
 
         </section>
-
-
-
-
-
-        <section class="fade-in">
+                <section class="fade-in">
 
             <h2><span class="section-icon">🎓</span> Education</h2>
 
-            
 
-            <div class="education-card">
+
+    <div class="education-card">
 
                 <h3>Undergraduate Degree - Bachelor of Science (B.Sc.)</h3>
 
@@ -1689,6 +1932,11 @@
 
             </div>
 
+
+
+
+
+        
 
 
             <div class="education-card">
@@ -2193,7 +2441,7 @@
 
         });
 
-console.log('%c👋 Welcome to Jeffrina V\'s Portfolio!', 'color: #0f2027; font-size: 20px; font-weight: bold;');
+    console.log('%c👋 Welcome to Jeffrina V\'s Portfolio!', 'color: #0f2027; font-size: 20px; font-weight: bold;');
 
         console.log('%c📧 Contact: jeffrinaviviliya@gmail.com', 'color: #d4af37; font-size: 14px;');
 
@@ -2213,8 +2461,8 @@ console.log('%c👋 Welcome to Jeffrina V\'s Portfolio!', 'color: #0f2027; font-
 
     </script>
 
-</body>
+    </body>
 
-</html>
+    </html>
 
 
