@@ -1825,7 +1825,7 @@
 
                        <div>
 
-                <h3 style="color: #0f2027; margin-bottom: 20px; font-size: 1.3em;">Other Skills</h3>
+                <h3 style="color: #0f2027; margin-bottom: 20px; font-size: 1.3em;">Soft Skills</h3>
 
                 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -2265,7 +2265,7 @@
 
             <p style="font-size: 1.2em; margin-bottom: 10px;">
 
-                <strong>Jeffrina V</strong> - Data Analyst Portfolio
+                <strong>Jeffrina V</strong>  Portfolio
 
             </p>
 
