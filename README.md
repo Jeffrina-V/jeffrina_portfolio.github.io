@@ -1941,11 +1941,11 @@
 
                 <div class="hobby-card">
 
-                    <div class="hobby-icon">🎹</div>
+                    <div class="hobby-icon">💻</div>
 
-                    <div class="hobby-title">Instrumental Music</div>
+                    <div class="hobby-title">Coding</div>
 
-                    <p style="color: #666; margin-top: 8px; font-size: 0.9em;">Playing musical instruments</p>
+                    <p style="color: #666; margin-top: 8px; font-size: 0.9em;">Personal Projects & Challenges</p>
 
                 </div>
 
@@ -1961,11 +1961,11 @@
 
                 <div class="hobby-card">
 
-                    <div class="hobby-icon">🎤</div>
+                    <div class="hobby-icon">🎓</div>
 
-                    <div class="hobby-title">Singing</div>
+                    <div class="hobby-title">Learning</div>
 
-                    <p style="color: #666; margin-top: 8px; font-size: 0.9em;">Vocal music & melodies</p>
+                    <p style="color: #666; margin-top: 8px; font-size: 0.9em;">Online Courses & Workshops</p>
 
                 </div>
 
